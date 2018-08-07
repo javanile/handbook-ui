@@ -1,8 +1,8 @@
-# [Mustard UI](https://mustard-ui.com)
-Mustard is a **starter CSS framework** that actually looks good.
+# [Handbook UI](https://github.com/javanile/handbook-ui)
+Handbook UI is a **starter CSS framework** that actually looks good.
 
-[![npm](https://img.shields.io/npm/v/mustard-ui.svg)](https://www.npmjs.com/package/mustard-ui)
-[![npm](https://img.shields.io/npm/l/mustard-ui.svg)](https://www.npmjs.com/package/mustard-ui)
+[![npm](https://img.shields.io/npm/v/handbook-ui.svg)](https://www.npmjs.com/package/handbook-ui)
+[![npm](https://img.shields.io/npm/l/handbook-ui.svg)](https://www.npmjs.com/package/handbook-ui)
 
 ## Getting Started
 Mustard UI is currently in **BETA**.  Try it out today and help us fine tune the look and feel!
@@ -11,7 +11,7 @@ To get started, you can follow our [Installation Guide](https://mustard-ui.com/d
 
 **Install Using NPM:**
 ```bash
-npm install mustard-ui
+npm install handbook-ui --save-dev
 ```
 
 **Include via a CDN::**
