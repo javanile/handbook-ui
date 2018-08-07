@@ -5,7 +5,7 @@ Handbook UI is a **starter CSS framework** that actually looks good.
 [![npm](https://img.shields.io/npm/l/handbook-ui.svg)](https://www.npmjs.com/package/handbook-ui)
 
 ## Getting Started
-Mustard UI is currently in **BETA**.  Try it out today and help us fine tune the look and feel!
+Handbook UI is currently in **BETA**.  Try it out today and help us fine tune the look and feel!
 
 To get started, you can follow our [Installation Guide](https://mustard-ui.com/docs/installation/) or use one of the methods provided below:
 
@@ -44,10 +44,12 @@ You can use the framework as is or customize it via the component variables loca
 
 
 ## Documentation
-Full documentation is provided on our website located at [mustard-ui.com](https://mustard-ui.com).
+Full documentation is provided on our website located at [https://github.com/javanile/handbook-ui](https://github.com/javanile/handbook-ui).
 
 ## Become a Contributor
-Mustard UI is provided free of cost because of the contributions that are made from developers like you. If you'd like to see this project grow, we would love it if you could submit a pull request to the project on GitHub.
+Handbook UI is provided free of cost because of the contributions that are made from developers like you. If you'd like to see this project grow, we would love it if you could submit a pull request to the project on GitHub.
 
 ## Copyright and License
-Copyright 2018 Kyle Logue.  This project is licensed under the MIT License.
+Powered by Francesco Bianco from Javanile.org.
+Based on Mustard UI Copyright 2018 Kyle Logue.  
+This project is licensed under the MIT License.
