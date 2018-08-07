@@ -7,33 +7,12 @@ Handbook UI is a **starter CSS framework** that actually looks good.
 ## Getting Started
 Handbook UI is currently in **BETA**.  Try it out today and help us fine tune the look and feel!
 
-To get started, you can follow our [Installation Guide](https://mustard-ui.com/docs/installation/) or use one of the methods provided below:
-
 **Install Using NPM:**
 ```bash
 npm install handbook-ui --save-dev
 ```
 
-**Include via a CDN::**
-```html
-<link rel="stylesheet" href="https://unpkg.com/mustard-ui@latest/dist/css/mustard-ui.min.css">
-```
 
-**Clone the Repo and Install Dependencies:**
-```bash
-git clone https://github.com/kylelogue/mustard-ui.git
-
-```
-
-**Re-build the SCSS files:**
-```
-npm run build
-```
-
-**Open the Sandbox Environment:**
-```
-npm run dev
-```
 
 You can start configuring the colors to suit your needs by first changing the `$brand-color` variable located in `src/scss/base/base.scss` from `$color-green-500` to `$color-indigo-500` or any other color you'd like.  There are lots of colors that can be found in the `src/scss/vars/colors.scss` file.
 
@@ -48,6 +27,21 @@ Full documentation is provided on our website located at [https://github.com/jav
 
 ## Become a Contributor
 Handbook UI is provided free of cost because of the contributions that are made from developers like you. If you'd like to see this project grow, we would love it if you could submit a pull request to the project on GitHub.
+
+**Clone the Repo or Fork and Install Dependencies:**
+```bash
+git clone https://github.com/javanile/handbook-ui.git
+```
+
+**Re-build the SCSS files:**
+```
+npm run build
+```
+
+**Open the Sandbox Environment:**
+```
+npm run dev
+```
 
 ## Copyright and License
 Powered by Francesco Bianco from Javanile.org.
